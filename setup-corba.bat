@@ -17,6 +17,7 @@ echo Downloading pfl-tf...
 curl -L -o pfl-tf.jar "https://repo1.maven.org/maven2/org/glassfish/pfl/pfl-tf/4.1.2/pfl-tf-4.1.2.jar"
 
 cd ..
+cd ..
 
 echo.
 echo ========================================
