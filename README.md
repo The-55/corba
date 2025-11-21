@@ -1,14 +1,4 @@
-# 🧮 TP3 Systèmes Répartis -  CORBA
-
-## Table des Matières
-- [Contexte](#contexte)
-- [Objectifs](#objectifs)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Structure du Projet](#structure-du-projet)
-- [Fonctionnalités](#fonctionnalités)
-- [Dépannage](#dépannage)
+# Utilisation de CORBA dans le contexte des systèmes répartis
 
 ## Contexte
 
@@ -49,4 +39,5 @@ java -version
 javac -version
 
 # Recherche des outils CORBA
+
 Get-ChildItem "C:\Program Files\Java\jdk-*\bin\idlj.exe"
